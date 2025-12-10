@@ -1,0 +1,48 @@
+// data/packs.js
+export const packs = [
+    {
+        id: 'planning-rh',
+        title: 'Planning RH PME (Excel + Notion)',
+        price: '19€',
+        priceCommercial: '39€',
+        short: 'Planning automatique, calcul heures, gestion absences. Duplication Notion incluse.',
+        buyLink: 'BUY_LINK_PLANNING',
+        tags: ['Excel', 'Notion', 'RH'],
+    },
+    {
+        id: 'starter-api-csharp',
+        title: 'Starter API C# (Auth + CRUD + Docker)',
+        price: '49€',
+        priceCommercial: '149€',
+        short: 'Auth JWT, refresh, Docker, Clean Architecture, Swagger prêt à l’emploi.',
+        buyLink: 'BUY_LINK_API',
+        tags: ['C#', 'API', 'Docker'],
+    },
+    {
+        id: 'dashboard-kpi',
+        title: 'Dashboard KPI PME (Notion + Web)',
+        price: '29€',
+        priceCommercial: '79€',
+        short: 'Tableaux de bord exportables, templates KPI, vue finance & opérations.',
+        buyLink: 'BUY_LINK_DASH',
+        tags: ['Notion', 'KPI', 'Data'],
+    },
+    {
+        id: 'restaurant-site',
+        title: 'Site Restaurant + QR Menu',
+        price: '39€',
+        priceCommercial: '99€',
+        short: 'Site responsive + menu JSON + QR generator + page réservation.',
+        buyLink: 'BUY_LINK_RESTO',
+        tags: ['Web', 'QR', 'Restaurant'],
+    },
+    {
+        id: 'pitch-deck',
+        title: 'Pitch Deck Professionnel (PowerPoint)',
+        price: '15€',
+        priceCommercial: '35€',
+        short: 'Template pitch investor-ready, slides finances & roadmap incluses.',
+        buyLink: 'BUY_LINK_PITCH',
+        tags: ['PowerPoint', 'Pitch', 'Investisseurs'],
+    },
+];
