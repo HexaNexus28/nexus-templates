@@ -28,7 +28,7 @@ export default function Contact() {
         setStatus("error");
       }
     } catch (error) {
-      setStatus("error");
+      setStatus(`error ${error.message}`);
     }
   }
 

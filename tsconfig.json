@@ -28,7 +28,21 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
-    "**/*.mts"
+    "**/*.mts",
+    "app/layout.jsx",
+    "app/about/page.jsx",
+    "app/layout.jsx",
+    "app/template/page.jsx",
+    "app/service/page.jsx",
+    "app/contact/page.jsx",
+    "app/page.jsx",
+    "components/TemplateItem.jsx",
+    "components/ServiceCard.jsx",
+    "components/Footer.jsx",
+    "components/Hero.jsx",
+    "components/Navbar.jsx",
+    "components/Section.jsx",
+    "components/Navbar.js"
   ],
   "exclude": ["node_modules"]
 }

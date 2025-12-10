@@ -1,0 +1,1 @@
+NexusTemplates est une plateforme proposant des templates professionnels prêts à l’emploi pour développeurs, freelances et PME. Elle offre des modèles optimisés (planning RH, starter API C#, dashboards, sites restaurants, pitch decks) ainsi que des services d’intégration personnalisée. Structure extensible et déployable rapidement.
